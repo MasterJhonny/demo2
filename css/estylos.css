@@ -30,11 +30,15 @@ h1 {
     background-color: var(--colorPrimary);
 }
 main {
+    width: 100%;
     height: 80vh;
     display: flex;
     justify-content:center;
-}
-p {
+    align-items: center;
     background-color: var(--colorPrimary);
-    width: 80%;
+    padding-left: 100px;
 }
+p, img, picture{   
+    width: 70%;
+}
+
