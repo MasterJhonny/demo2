@@ -1,5 +1,5 @@
 :root {
-    --colorPrimary:#eb76ff;
+    --colorPrimary:#f6dfeb;
 }
 
 *  {
@@ -10,24 +10,35 @@
 
 
 html {
+    font-size: 62.5%;
     color: rgb(160, 41, 160);
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f7d9d9;
 }
 
 header {
-    height: 10vh;
+    width: 100wh;
+    height: 20vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
 }
 h1, p {
     text-align: center;
 }
 
 h1 {
-    font-size:2rem;
+    width: 70%;
+    font-size:2.5rem;
     border: 1px solid #ff005c;
-    border-radius: 2rem;
     margin: 1rem;
     background-color: var(--colorPrimary);
+    padding: .5rem;
+    box-shadow: 1px 1px 4px 1px #ff7171;
+}
+
+span {
+    font-size: 1.6rem;
 }
 main {
     width: 100%;
