@@ -38,7 +38,10 @@ main {
     background-color: var(--colorPrimary);
     padding-left: 100px;
 }
-p, img, picture{   
-    width: 70%;
+.container, img, picture{   
+    width: 60%;
 }
 
+p {
+    font-size:1.6rem;
+}
