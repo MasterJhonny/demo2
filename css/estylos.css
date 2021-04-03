@@ -23,7 +23,7 @@ header {
     flex-direction:column;
     align-items:center;
 }
-h1, p {
+h1 {
     text-align: center;
 }
 
@@ -42,15 +42,24 @@ span {
 }
 main {
     width: 100%;
-    height: 80vh;
+    height: auto;
     display: flex;
     justify-content:center;
     align-items: center;
     background-color: var(--colorPrimary);
-    padding-left: 100px;
+    padding-left: 50px;
 }
-.container, img, picture{   
-    width: 60%;
+img, picture, p{   
+    width: 35rem;
+    margin:1rem;
+}
+.container {
+    display: flex;
+    flex-direction:column;
+}
+aside {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 p {
