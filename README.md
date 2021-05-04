@@ -1,4 +1,4 @@
-## Proyeto prueba de curso git(Underline)
+## Proyeto prueba de curso git (Underline)
 =========================================
 Un blog de gatitos, pues un pequ;o proyecto del curso de git y github.
 
