@@ -9,5 +9,9 @@ Un blog de gatitos, pues un pequ;o proyecto del curso de git y github.
 + HTML
 + CSS
 
+##### Lo que vimos en el curso
+
++ como hacer un commit
+
 Bueno espero que les hay gustado este mini proyecto. &#9997;
 
