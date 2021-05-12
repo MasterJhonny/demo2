@@ -12,6 +12,8 @@ Un blog de gatitos, pues un pequ;o proyecto del curso de git y github.
 ##### Lo que vimos en el curso
 
 + como hacer un commit
++ como hacer un merge
++ como hacer pull request
 
 Bueno espero que les hay gustado este mini proyecto. &#9997;
 
