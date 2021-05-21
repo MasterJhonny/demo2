@@ -18,6 +18,7 @@ Un blog de gatitos, pues un pequ;o proyecto del curso de git y github.
 + muliples entornos de trabajo
 + chery pick
 + como usar chery pick
++ como hacer un stash
 
 Bueno espero que les hay gustado este mini proyecto. &#9997;
 
