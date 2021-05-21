@@ -15,6 +15,8 @@ Un blog de gatitos, pues un pequ;o proyecto del curso de git y github.
 + como hacer un merge
 + como hacer pull request
 + como hacer un rebase
++ muliples entornos de trabajo
++ chery pik
 
 Bueno espero que les hay gustado este mini proyecto. &#9997;
 
