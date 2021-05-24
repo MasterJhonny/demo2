@@ -1,5 +1,5 @@
 :root {
-    --colorPrimary:#f6dfeb;
+    --colorPrimary:#ff7171;
 }
 
 *  {
@@ -11,14 +11,14 @@
 
 html {
     font-size: 62.5%;
-    color: rgb(160, 41, 160);
+    color: #f5c0c0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f7d9d9;
+    background-color: #f5abc9;
 }
 
 header {
     width: 100wh;
-    height: 20vh;
+    height: 30vh;
     display:flex;
     flex-direction:column;
     align-items:center;
@@ -26,7 +26,12 @@ header {
 h1 {
     text-align: center;
 }
-
+.logo {
+    display: flex;
+}
+header img {
+    width: 7rem;
+}
 h1 {
     width: 70%;
     font-size:2.5rem;
@@ -54,6 +59,11 @@ main {
 img, picture, p{   
     width: 35rem;
     margin:1rem;
+}
+
+.info{
+    display: flex;
+    justify-content:center;
 }
 .container {
     display: flex;
